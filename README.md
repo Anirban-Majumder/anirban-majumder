@@ -30,3 +30,6 @@ Here are a few things I've picked up along my learning journey.
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-%23ff0000?&style=flat&logo=virtualbox&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Kubernetes-%303030?&style=flat&logo=Kubernetes&logoColor=white)&nbsp;
