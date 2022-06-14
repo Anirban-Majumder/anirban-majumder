@@ -1,4 +1,4 @@
-#<img src="images/Hi.gif" height="32px" width="5px"> Hi, I am Anirban Majumder 👨‍💻
+# <img src="images/Hi.gif" height="32px" width="5px"> Hi, I am Anirban Majumder 👨‍💻
 
 I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
@@ -19,4 +19,4 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 ![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;\
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
 ![GetX](https://img.shields.io/badge/GETX-%23121011.svg?&style=flat&logo=getx&logoColor=white) &nbsp;
-    
+
