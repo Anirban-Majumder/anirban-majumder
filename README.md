@@ -12,8 +12,8 @@ Here are a few things I've picked up along my learning journey.
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
-![Angular](https://img.shields.io/badge/-React-blue?&style=flat&logo=react&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-blue?&style=flat&logo=react&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/Nextjs-black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-FLASK-black?&style=flat&logo=flask&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-DJANGO-%230c4b33?&style=flat&logo=django&logoColor=white)&nbsp;\
