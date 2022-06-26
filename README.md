@@ -1,4 +1,4 @@
-# <img src="images/Hi.gif" height="32px" width="5px"> Hi, I am Anirban Majumder 👨‍💻
+# <img src="images/Hi.gif" height="32px" width="15px"> Hi, I am Anirban Majumder 👨‍💻
 
 I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
