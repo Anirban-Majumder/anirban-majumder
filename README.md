@@ -15,8 +15,8 @@ Here are a few things I've picked up along my learning journey.
 ![React](https://img.shields.io/badge/-React-blue?&style=flat&logo=react&logoColor=white)&nbsp;
 ![NextJS](https://img.shields.io/badge/Nextjs-black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/-FLASK-black?&style=flat&logo=flask&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/-DJANGO-%230c4b33?&style=flat&logo=django&logoColor=white)&nbsp;\
+#![Flask](https://img.shields.io/badge/-FLASK-black?&style=flat&logo=flask&logoColor=white)&nbsp;
+#![Django](https://img.shields.io/badge/-DJANGO-%230c4b33?&style=flat&logo=django&logoColor=white)&nbsp;\
 ![MySQL](https://img.shields.io/badge/-MYSQL-blue?&style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;\
