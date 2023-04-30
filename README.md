@@ -2,7 +2,7 @@
 
 I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [website](https://www.anirbanmajumder.tech/).
+### 🔭 Have a look at my [website](https://anirbanmajumder.vercel.app/).
 
 ## ⚡ Tech Stack
 
