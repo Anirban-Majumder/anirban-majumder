@@ -41,4 +41,4 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anirbanmajumder0/anirbanmajumder0)
+[![visitors](https://hits.dwyl.com/anirbanmajumder0/anirbanmajumder0.svg?style=flat-square)](http://hits.dwyl.com/anirbanmajumder0/anirbanmajumder0)
