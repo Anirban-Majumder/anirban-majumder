@@ -41,4 +41,4 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-[![visitors](https://hits.dwyl.com/anirbanmajumder0/anirbanmajumder0.svg?style=flat-square)](http://hits.dwyl.com/anirbanmajumder0/anirbanmajumder0)
+[![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fanirbanmajumder0%2Fanirbanmajumder0.json%3Fcolor%3Dblue)](http://hits.dwyl.com/anirbanmajumder0/anirbanmajumder0)
