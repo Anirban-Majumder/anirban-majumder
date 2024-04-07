@@ -8,6 +8,8 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 
 Here are a few things I've picked up along my learning journey.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat&logo=dart&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
