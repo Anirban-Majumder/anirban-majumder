@@ -20,7 +20,16 @@ Here's a glimpse into the diverse set of technologies I work with:
 ![MySQL](https://img.shields.io/badge/-MYSQL-blue?&style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;\
-@@ -31,13 +33,14 @@ Here are a few things I've picked up along my learning journey.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;\
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;\
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-%23ff0000?&style=flat&logo=virtualbox&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Kubernetes-%303030?&style=flat&logo=Kubernetes&logoColor=white)&nbsp;
 
@@ -33,3 +42,6 @@ Here's a glimpse into the diverse set of technologies I work with:
 
 Alternatively, you can reach out to me via [mail](mailto:contact@anirbanmajumder.tech) .
 
+
+
+[![visitors](https://img.shields.io/endpoint?color=cyan&label=Visitors&labelColor=black&logo=Fireship&logoColor=red&style=plastic&url=https%3A%2F%2Fhits.dwyl.com%2Fanirbanmajumder0%2Fanirbanmajumder0.json)](http://hits.dwyl.com/anirbanmajumder0/anirbanmajumder0)
