@@ -2,7 +2,7 @@
 
 🌟 **Full Stack Software Developer & ML Enthusiast**
 
-Welcome to my corner of the digital universe! I'm Anirban, a passionate Full Stack Software Developer and Machine-Learning enthusiast. When I'm not crafting code, you'll likely find me diving into the latest tech trends or exploring the vast world of machine learning algorithms. Feel free to connect and explore more about me on [my website](https://anirbanmajumder.vercel.app/).
+Welcome to my corner of the digital universe! I'm Anirban, a passionate Full Stack Software Developer and Machine-Learning enthusiast. When I'm not crafting code, you'll likely find me diving into the latest tech trends or exploring the vast world of machine learning algorithms. Feel free to connect and explore more about me on [my website](https://anirban-majumder.vercel.app/).
 
 ## 💻 My Technology Stack
 
